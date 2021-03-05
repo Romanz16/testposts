@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.table{
+    margin: 15px 0;
+}
+th{
+    text-align: center;
+}
+.done{
+    color: green;
+}
+.inProgress{
+    color: red;
+}
+.trEdit{
+    background-color: rgb(212, 209, 209);
+} 
+.error{
+    font-size: 16px;
+    color: red;
+}
+.success{
+    font-size: 16px;
+    color: rgb(90, 206, 90);
+}
+a:hover{
+    color:red;
+}
